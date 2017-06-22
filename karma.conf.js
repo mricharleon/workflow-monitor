@@ -17,7 +17,7 @@ module.exports = function (config) {
     },
     coverageIstanbulReporter: {
       reports: [ 'html', 'lcov' ],
-      fixWebpackSourcePaths: true,
+      fixWebpackSourcePaths: false,
       thresholds: {
         statements: 80,
         lines: 80,

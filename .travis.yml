@@ -29,4 +29,4 @@ before_script:
   - ng test --watch=false --code-coverage
 script:
   #- codecov
-  - ./node_modules/coveralls/bin/coveralls.js
+  - echo "Holaaaaaaaaaaaaa " | ./node_modules/coveralls/bin/coveralls.js

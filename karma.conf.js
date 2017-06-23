@@ -16,7 +16,7 @@ module.exports = function (config) {
       clearContext: false // leave Jasmine Spec Runner output visible in browser
     },
     coverageIstanbulReporter: {
-      reports: [ 'html', 'lcov' ],
+      reports: [ 'html', 'lcovonly' ],
       fixWebpackSourcePaths: false,
       thresholds: {
         statements: 80,
@@ -32,7 +32,7 @@ module.exports = function (config) {
     port: 9876,
     colors: true,
     logLevel: config.LOG_INFO,
-    autoWatch: false,
+    autoWatch: true,
     browsers: ['Chrome'],
     singleRun: false
   });

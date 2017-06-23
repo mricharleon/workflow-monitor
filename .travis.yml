@@ -29,4 +29,4 @@ before_script:
   - ng test --watch=false --code-coverage
 script:
   #- codecov
-  - cat ./coverage/coverage.lcov | ./node_modules/coveralls/bin/coveralls.js
+  - cat ./node_modules/coveralls/bin/coveralls.js

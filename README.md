@@ -1,3 +1,8 @@
+[![Build Status](https://travis-ci.org/mricharleon/workflow-monitor.svg?branch=master)](https://travis-ci.org/mricharleon/workflow-monitor)
+[![Code Climate](https://codeclimate.com/github/mricharleon/workflow-monitor/badges/gpa.svg)](https://codeclimate.com/github/mricharleon/workflow-monitor)
+[![codecov](https://codecov.io/gh/mricharleon/workflow-monitor/branch/master/graph/badge.svg)](https://codecov.io/gh/mricharleon/workflow-monitor)
+[![Coverage Status](https://coveralls.io/repos/github/mricharleon/workflow-monitor/badge.svg?branch=master)](https://coveralls.io/github/mricharleon/workflow-monitor?branch=master)
+
 # ProjectX
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.1.

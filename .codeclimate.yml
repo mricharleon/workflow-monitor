@@ -1,0 +1,18 @@
+engines:
+  csslint:
+    enabled: true
+  eslint:
+    enabled: true
+  duplication:
+    enabled: true
+    config:
+      languages:
+        - typescript
+        - javascript
+ratings:
+  paths:
+    - "**.js"
+    - "**.ts"
+exclude_paths:
+  - "coverage"
+  - "node_modules/"

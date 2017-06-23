@@ -6,6 +6,8 @@ engines:
   tslint:
     enabled: true
     channel: beta
+    # special config as the engine does not support plugins atm
+    config: tslint.codeclimate.json
   duplication:
     enabled: true
     config:

@@ -3,6 +3,7 @@
 [![codecov](https://codecov.io/gh/mricharleon/workflow-monitor/branch/master/graph/badge.svg)](https://codecov.io/gh/mricharleon/workflow-monitor)
 [![Coverage Status](https://coveralls.io/repos/github/mricharleon/workflow-monitor/badge.svg?branch=master)](https://coveralls.io/github/mricharleon/workflow-monitor?branch=master)
 [![Dependency Status](https://www.versioneye.com/user/projects/594d26636725bd005b40b80d/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/594d26636725bd005b40b80d)
+[![Known Vulnerabilities](https://snyk.io/test/github/mricharleon/workflow-monitor/badge.svg)](https://snyk.io/test/github/mricharleon/workflow-monitor)
 
 # ProjectX
 

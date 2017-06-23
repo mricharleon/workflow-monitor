@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/mricharleon/workflow-monitor.svg?branch=master)](https://travis-ci.org/mricharleon/workflow-monitor)
 [![codecov](https://codecov.io/gh/mricharleon/workflow-monitor/branch/master/graph/badge.svg)](https://codecov.io/gh/mricharleon/workflow-monitor)
-
+[![Code Climate](https://codeclimate.com/github/mricharleon/workflow-monitor/badges/gpa.svg)](https://codeclimate.com/github/mricharleon/workflow-monitor)
 
 # ProjectX
 

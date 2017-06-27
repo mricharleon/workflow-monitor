@@ -1,0 +1,30 @@
+{
+  "header":{
+    "titulo": "WorkFlow-Monitor",
+    "lenguaje": "Lenguaje",
+    "perfil":{
+      "titulo": "Perfil"
+    }
+  },
+  "sidenav":{
+    "menu":{
+      "dashboard": "Tablero"
+    }
+  },
+  "dashboard":{
+    "titulo": "Tablero",
+    "subtitulo": "Resumen Estadístico"
+  },
+  "stat":{
+    "detalles": "Ver detalles",
+    "issues": "Inconvenientes encontrados",
+    "pull-requests": "Solicitudes para añadir código",
+    "releases": "Versiones",
+    "estables": "Estables",
+    "planificadas": "Planificadas",
+    "enEspera": "En espera",
+    "añadidos": "Añadidos",
+    "enProceso": "En proceso",
+    "solucionados": "Solucionados"
+  }
+}

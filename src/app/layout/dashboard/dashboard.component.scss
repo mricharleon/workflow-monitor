@@ -1,0 +1,8 @@
+@import '~styles/base.scss';
+
+.carousel-caption h3, p {
+  background-color: rgba($primary-dark-color, 0.6);
+  display: table;
+  margin: 1px 0 0 0;
+  padding: 3px 7px 5px 7px;
+}

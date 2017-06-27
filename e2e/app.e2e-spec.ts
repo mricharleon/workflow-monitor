@@ -6,9 +6,4 @@ describe('project-x App', () => {
   beforeEach(() => {
     page = new ProjectXPage();
   });
-
-  it('should display welcome message', () => {
-    page.navigateTo();
-    expect(page.getParagraphText()).toEqual('Welcome to app!!');
-  });
 });

@@ -1,0 +1,11 @@
+@import '~styles/base.scss';
+
+.navbar {
+  background: $primary-alternative-color !important;
+  border-bottom: 2px solid $primary-color;
+  box-shadow: 0px 1px 8px $secondary-dark-color;
+}
+
+a {
+  color: $secondary-dark-color !important;
+}

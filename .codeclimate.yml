@@ -1,5 +1,5 @@
 engines:
-  csslint:
+  scss-lint:
     enabled: true
   eslint:
     enabled: true
@@ -18,7 +18,7 @@ ratings:
   paths:
     - "**.js"
     - "**.ts"
-    - "**.css"
+    - "**.scss"
 exclude_paths:
   - "coverage"
   - "node_modules/"

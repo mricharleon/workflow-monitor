@@ -1,0 +1,30 @@
+{
+  "header":{
+    "titulo": "WorkFlow-Monitor",
+    "lenguaje": "Language",
+    "perfil":{
+      "titulo": "Profile"
+    }
+  },
+  "sidenav":{
+    "menu":{
+      "dashboard": "Dashboard"
+    }
+  },
+  "dashboard":{
+    "titulo": "Dashboard",
+    "subtitulo": "Statistics Overview"
+  },
+  "stat":{
+    "detalles": "View details",
+    "issues": "Issues",
+    "pull-requests": "Pull Requests",
+    "releases": "Releases",
+    "estables": "Stables",
+    "planificadas": "Planned",
+    "enEspera": "On hold",
+    "añadidos": "Added",
+    "enProceso": "In process",
+    "solucionados": "Solved"
+  }
+}

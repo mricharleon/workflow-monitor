@@ -1,9 +1,9 @@
 {
   "header":{
-    "titulo": "WorkFlow-Monitor",
-    "lenguaje": "Lenguaje",
-    "perfil":{
-      "titulo": "Perfil"
+    "title": "WorkFlow-Monitor",
+    "language": "Lenguaje",
+    "profile":{
+      "name": "Perfil"
     }
   },
   "sidenav":{
@@ -12,19 +12,19 @@
     }
   },
   "dashboard":{
-    "titulo": "Tablero",
-    "subtitulo": "Resumen Estadístico"
+    "title": "Tablero",
+    "subtitle": "Resumen Estadístico"
   },
   "stat":{
-    "detalles": "Ver detalles",
+    "details": "Ver detalles",
     "issues": "Inconvenientes encontrados",
     "pull-requests": "Solicitudes para añadir código",
     "releases": "Versiones",
-    "estables": "Estables",
-    "planificadas": "Planificadas",
-    "enEspera": "En espera",
-    "añadidos": "Añadidos",
-    "enProceso": "En proceso",
-    "solucionados": "Solucionados"
+    "stable": "Estables",
+    "planned": "Planificadas",
+    "onHold": "En espera",
+    "added": "Añadidos",
+    "inProcess": "En proceso",
+    "solved": "Solucionados"
   }
 }

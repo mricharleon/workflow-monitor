@@ -2,7 +2,7 @@
   <nav class="navbar navbar-light bg-faded navbar-toggleable-md" >
     <a class="navbar-brand" href="#">
       <img src="/assets/images/logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
-      {{ 'header.titulo' | translate }}
+      {{ 'header.title' | translate }}
     </a>
     <button class="navbar-toggler navbar-toggler-right" (click)="toggleSidebar()">
       <span class="navbar-toggler-icon"></span>
@@ -25,7 +25,7 @@
 
         <li class="nav-item dropdown" ngbDropdown>
           <a href="javascript:void(0)" class="nav-link" ngbDropdownToggle>
-            <i class="fa fa-language"></i> {{ 'header.lenguaje' | translate }} <b class="caret"></b>
+            <i class="fa fa-language"></i> {{ 'header.language' | translate }} <b class="caret"></b>
           </a>
           <div class="dropdown-menu dropdown-menu-right">
             <a class="dropdown-item" href="javascript:void(0)" (click)="changeLang('es')">Español</a>
@@ -35,7 +35,7 @@
 
         <li class="nav-item dropdown" ngbDropdown>
           <a href="javascript:void(0)" class="nav-link" ngbDropdownToggle>
-            <i class="fa fa-user"></i> {{ 'header.perfil.titulo' | translate }} <b class="caret"></b>
+            <i class="fa fa-user"></i> {{ 'header.profile.name' | translate }} <b class="caret"></b>
           </a>
           <div class="dropdown-menu dropdown-menu-right">
             <a class="dropdown-item" href="javascript:void(0)"><i class="fa fa-fw fa-user"></i> Profile</a>

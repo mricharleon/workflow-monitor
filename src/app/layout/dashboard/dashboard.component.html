@@ -1,4 +1,4 @@
-<h2 class="text-muted">{{ 'dashboard.titulo' | translate }} <small>{{ 'dashboard.subtitulo' | translate }}</small></h2>
+<h2 class="text-muted">{{ 'dashboard.title' | translate }} <small>{{ 'dashboard.subtitle' | translate }}</small></h2>
 
 <hr>
 
@@ -6,20 +6,20 @@
   <div class="col-md-4">
     <app-stat
       [bgClass]="'card-success'" [icon]="'fa-shopping-cart'"
-      [countData1]="6" [data1]="'stat.estables' | translate"
-      [countData2]="1" [data2]="'stat.planificadas' | translate"
+      [countData1]="6" [data1]="'stat.stable' | translate"
+      [countData2]="1" [data2]="'stat.planned' | translate"
       [label]="'stat.releases' | translate" ></app-stat>
   </div>
   <div class="col-md-4">
     <app-stat [bgClass]="'card-info'" [icon]="'fa-tasks'"
-      [countData1]="7" [data1]="'stat.enEspera' | translate"
-      [countData2]="120" [data2]="'stat.añadidos' | translate"
+      [countData1]="7" [data1]="'stat.onHold' | translate"
+      [countData2]="120" [data2]="'stat.added' | translate"
       [label]="'stat.pull-requests' | translate" ></app-stat>
   </div>
   <div class="col-md-4">
     <app-stat [bgClass]="'card-danger'" [icon]="'fa-support'"
-      [countData1]="2" [data1]="'stat.enProceso' | translate"
-      [countData2]="14" [data2]="'stat.solucionados' | translate"
+      [countData1]="2" [data1]="'stat.inProcess' | translate"
+      [countData2]="14" [data2]="'stat.solved' | translate"
       [data2]="12" [label]="'stat.issues' | translate"></app-stat>
   </div>
 </div>
